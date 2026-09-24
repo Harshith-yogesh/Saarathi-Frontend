@@ -1,0 +1,6 @@
+{
+  "name": "Sarathi - Mindful Travel Discovery",
+  "description": "Intuitive, explainable travel discovery engine for the mindful Indian traveler, curating authentic serene stays with grounded reasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
